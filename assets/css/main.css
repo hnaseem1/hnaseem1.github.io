@@ -94,6 +94,7 @@
 			border-color: transparent;
 		}
 
+
 /* Icon */
 
 	.icon {
@@ -266,7 +267,7 @@
 
 /* Overlay */
 
-	@-moz-keyframes overlay {
+	/* @-moz-keyframes overlay {
 		0% {
 			opacity: 0;
 		}
@@ -303,7 +304,7 @@
 
 		100% {
 			opacity: 1;
-		}
+		} */
 	}
 
 	#overlay {
